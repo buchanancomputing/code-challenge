@@ -47,16 +47,20 @@
                                 </svg>
                             </div>
 
-                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Code Challenge</h2>
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Buchanan Interview: Code Challenge</h2>
 
                             <div class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                <p> Create a Laravel application that comunicate with a public API (<a href="https://punkapi.com/documentation/v2">https://punkapi.com/documentation/v2</a>) in order to retrieve some data and display it in a dedicated page.
+                                <p>Create a Laravel application that communicates with a public API (https://punkapi.com/documentation/v2) in order to retrieve data and display it on a dedicated 'Beers' page.
                                 </p>
-                                <p class="mt-4">Application Specification:</p>
+                                <p class="mt-4">The Application should meet the following requirements:</p>
                                 <ul class="mt-4">
-                                    <li>1 - All users must register and authenticate;</li>
-                                    <li>2 - Users should have a page available where they can request 5 random beers;</li>
-                                    <li>3 - Users must be +18 in order to access the "Beers" page;</li>
+                                    <li> - All users of the application must register and authenticate.</li>
+                                    <li> - The 'Beers' page should allow users to generate 5 random beers available through the API - showing a bit of information on each (i.e. name, abv, etc).</li>
+                                    <li> - Users must be +18 in order to access the 'Beers' page.</li>
+                                </ul>
+                                <p class="mt-4">Notes:</p>
+                                <ul class="mt-4">
+                                    <li> - We recommend the use of sqlite as a database engine.</li>
                                 </ul>
                             </div>
                         </div>
