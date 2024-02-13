@@ -1,5 +1,7 @@
 # Buchanan Interview: Code Challenge
 
+## Instructions 
+
 ### Create a Laravel application that communicates with a public API (https://punkapi.com/documentation/v2) in order to retrieve data and display it on a dedicated ‘Beers’ page.
 
 #### The Application should meet the following requirements:
@@ -16,3 +18,9 @@
  ```
  composer install
  ```
+
+## Send your code back to us
+
+ - Compress the entire laravel folder into a .zip file.
+ - Upload it to "WeTransfer".
+ - Email it to tech.info@buchanancomputing.co.uk with the title "CODE CHALLENGE - YOUR NAME".
